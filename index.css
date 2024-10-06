@@ -7,7 +7,10 @@ body{
 }
 
 #home{
-    background: url('img/introduction glacier.jpg') no-repeat center ;
+    background-image: url('img/introduction glacier.jpg') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    
     color: white;
     /* background-size: contain;
     background-repeat: no-repeat;
