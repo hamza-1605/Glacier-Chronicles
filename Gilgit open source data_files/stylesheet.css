@@ -1,0 +1,65 @@
+body{
+	background: url("exptextb.jpg");
+	margin: auto;
+	font-family: Book Antiqua, Times New Roman, Times;
+	font-size: 12px;
+
+}
+table{
+	width: 580px;
+	border: 1px solid;
+	margin: 30px auto;
+
+}
+.h1{
+	font-size: 22px;
+	font-weight: bold;
+}
+.italic{
+	font-style: italic;
+	font-size: 12px;
+}
+thead{
+	text-align: center;
+	font-weight: bold;
+	background:#99CCCC;
+}
+
+tr{
+	margin: 0;
+	padding: 0;
+}
+
+td{
+	border: 1px solid;
+	margin: 0;
+	padding: 3px;
+	text-align: center;
+}
+tr:last-child td{
+	border: none;
+}
+
+tbody td:first-child {
+
+
+	text-align: left;
+	width: 115px;
+}
+
+
+.red{
+	color: red;
+	font-size: 18px;
+	font-weight: 800;
+}
+.blue{
+	color: blue;
+	font-size: 18px;
+	font-weight: 800;
+}
+.green{
+	color:green;
+	font-size: 18px;
+	font-weight: 800;
+}
