@@ -1,0 +1,25 @@
+body{
+    background-color: #ececec;
+}
+
+#navbar{
+    background-color: hwb(138 7% 65%);
+}
+
+#home{
+    background: url('/img/introduction glacier.jpg') no-repeat center ;
+    color: white;
+    /* background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; */
+    height: 80vh;
+}
+
+#home h1, #home h6{
+    text-shadow: 1px 1px black;
+}
+
+#footer{
+    background-color: hwb(138 7% 65%);
+    padding-bottom: 0.1vh;
+}
